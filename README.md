@@ -1,4 +1,4 @@
-# Bookshelf API
+# Bookshelf RestfulAPI
 
 Hello there 👋, feel free to give a critics and opinion on my repo.
 
